@@ -75,6 +75,7 @@ if (five === 5) {
     console.log('Five is equal to 5'); // This one should be logged
 } else {
     console.log('Five is not equal to 5'); 
+  }
 
 // Error 18:
 Array.prototype.push = function() {
@@ -90,6 +91,6 @@ x = 5;
 
 // Error 20:
 let myString = 'Hello';
-myString.property = 'World';
-console.log(myString.property); 
+myString.p = 'World';
+console.log(myString + myString.p); 
 
