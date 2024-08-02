@@ -4,7 +4,7 @@
 <li>Looped Videos taking long to load, added preload coding to all videos on website to increase performance percentage which will keep videos from loading prior to other elements, styles, and js files.</li>
 </ul>
 <h2>Learned Observations</h2>
-<p>Developer tools not only lets you see how to debug issues with your page. It helps to know if you have the right stuff in place. <br>Things like ARIA for ADA and reader purposes and that any heavy items such as images/videos are not tragging down the page load. <br>I have learned that a simple code such as preload=none helps with video loading especially because it will load the html first before the video. </p>
+<p>Developer tools not only lets you see how to debug issues with your page. It helps to know if you have the right stuff in place. <br style="padding 2%">Things like ARIA for ADA and reader purposes and that any heavy items such as images/videos are not tragging down the page load. <br style="padding 2%">I have learned that a simple code such as preload=none helps with video loading especially because it will load the html first before the video. </p>
 <h2>Screenshots</h2>
 <h3>Prior to corrections</h3>
 <img src="https://res.cloudinary.com/dgls7u3iq/image/upload/v1722556128/lighthouse_report_day_4_yjokdn.jpg" alt="lighthouse screenshot" width 300px height 200px>
