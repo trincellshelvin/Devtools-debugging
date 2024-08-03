@@ -36,13 +36,29 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 - Description[Has no assigned value for the margins and pddding.]
 
-#### Probelm 6:
+#### Problem 6:
 
 - Description: [Class is not assigned to a specific element within the HTML.]
 
-#### Probelm 7: 
+#### Problem 7: 
 
 - Description: [Based upon the image id, there was no need to use the image tag for a selector]
+
+#### Problem 8:
+
+- Description: [class selector was missing specific styling for the div container.]
+
+#### Problem 9:
+
+- Description: []
+
+#### Problem 10:
+
+- Description: []
+
+#### Problem 11:
+
+-Description: []
 
 [Continue with the remaining problems]
 
@@ -76,7 +92,24 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 ##### Problem 7:
 
--Solution: [Removed the image tag from the style selector id.]
+- Solution: [Removed the image tag from the style selector id.]
+
+#### Problem 8:
+
+- Solution: [applied width to the style to have the container fit the content instead of the entire page.]
+
+#### Problem 9:
+
+- Solution: []
+
+#### Problem 10:
+
+- Solution: []
+
+#### Problem 11:
+
+- Solution: []
+
 
 [Continue with solutions for the remaining problems]
 
