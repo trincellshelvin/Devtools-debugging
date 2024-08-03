@@ -116,6 +116,9 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 ### Step 4: Reflect
 
 After completing the exercise, write a brief reflection on what you learned from this debugging and optimization process. Discuss any new insights you gained and how you might apply these skills in future projects.
+### Reflection:
+Day 5 has been evidence that even one mistake when fixed can change the outcome of your code (while using developer tools) for the better by a simple incorrect declaration. I gained insight as to how these tools can troubleshoot more than page load issues. It can show you where the code went wrong. 
+
 #### Problem 1: Meta data assists the browser with what the page is about to be about. It allows the browser to know how to start processing the data within the HTML, CSS, and Javascript pages. 
 ## Submission
 
