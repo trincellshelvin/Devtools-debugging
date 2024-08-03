@@ -36,6 +36,14 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 - Description[Has no assigned value for the margins and pddding.]
 
+#### Probelm 6:
+
+- Description: [Class is not assigned to a specific element within the HTML.]
+
+#### Probelm 7: 
+
+- Description: [Based upon the image id, there was no need to use the image tag for a selector]
+
 [Continue with the remaining problems]
 
 ### Step 3: Propose Solutions
@@ -62,6 +70,13 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 - Solution: [Added 5% to the padding and margins for added value.]
 
+#### Problem 6:
+
+- Solution: [Removed unidentified classes from style sheet.]
+
+##### Problem 7:
+
+-Solution: [Removed the image tag from the style selector id.]
 
 [Continue with solutions for the remaining problems]
 
