@@ -50,15 +50,15 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 9:
 
-- Description: []
+- Description: [function was missing what element to create]
 
 #### Problem 10:
 
-- Description: []
+- Description: [no error found in this function]
 
 #### Problem 11:
 
--Description: []
+-Description: [no error found in this function]
 
 [Continue with the remaining problems]
 
@@ -100,15 +100,15 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 9:
 
-- Solution: []
+- Solution: [changed 'p' to a'para' as the element to create in the function.]
 
 #### Problem 10:
 
-- Solution: []
+- Solution: [no error found, n/a]
 
 #### Problem 11:
 
-- Solution: []
+- Solution: [no error found, n/a]
 
 
 [Continue with solutions for the remaining problems]
