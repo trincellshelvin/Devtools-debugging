@@ -63,7 +63,7 @@ let importantData =
 console.log('importantData');
 
 // Error 12: 
-tryToCallFunction();
+testFunction();
 
 // Error 13:
 let user = { namee: 'Alice' };
