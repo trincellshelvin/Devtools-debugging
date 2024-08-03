@@ -32,7 +32,6 @@ updateMessage();
 
 
 // Error 7:
-document.getElementById('testButton');
 document.addEventListener('click', testFunction);
 
 function testFunction() {
