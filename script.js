@@ -19,14 +19,16 @@ function displayOutput() {
 }
 
 // Error 6: Misusing variable scope
+let localMessage = 'Updated message';
 function updateMessage() {
-  let localMessage = 'Updated message';
+  console.log(localMessage); 
 }
 updateMessage();
-console.log(localMessage); 
+
 
 // Error 7:
-document.getElementById('testButton').addEventListener('click', testFunction());
+document.getElementById('testButton');
+document.addEventListener('click', testFunction);
 
 function testFunction() {
   console.log('Test function executed');
@@ -35,15 +37,20 @@ function testFunction() {
 // Error 8:
 let number1 = 10;
 let number2 = 5;
-console.log('Sum is: ' + (number1 - number2));
+console.log('Sum is: ' + (number1 + number2));
 
-// Error 9: 
-let nullVar = null;
-console.log(nullVar.length);
+
+// Error 9:
+
+if(nullVar == null) {
+  console.log('nullVar is null');
+}
+
+
 
 // Error 10:
 let caseSensitiveVar = 'Case matters';
-console.log(CaseSensitiveVar);
+console.log(caseSensitiveVar);
 
 // Error 11:
 let importantData =
@@ -62,10 +69,10 @@ let someNumber = 123;
 console.log(someNumber.toUpperCase()); 
 
 // Error 15: 
-let greeting = Hello, world!;
+let greeting = 'Hello, world!';
 
 // Error 16: 
-for (let i = 0; i < 5; i++); {
+for (let i = 0; i < 5; i++){
     console.log(i);
 }
 
@@ -86,11 +93,12 @@ numbers.push(1);
 console.log(numbers);
 
 // Error 19:
+let x
 console.log(x);
 x = 5;
 
 // Error 20:
 let myString = 'Hello';
-myString.p = 'World';
-console.log(myString + myString.p); 
+myString += 'World';
+console.log(myString); 
 
