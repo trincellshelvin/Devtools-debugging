@@ -71,7 +71,7 @@ console.log(user.name)
 
 // Error 14: 
 let someNumber = 123;
-console.log(someNumber.toUpperCase());
+console.log(someNumber.toUpperCase);
 
 // Error 15: 
 let greeting = 'Hello, world!';
