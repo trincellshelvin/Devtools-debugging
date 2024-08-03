@@ -1,10 +1,15 @@
 // Error 1:
 let message = 'Welcome to the debugging exercise!';
-console.log(message); 
+console.log(message);
 
 // Error 2: 
-let button = document.querySelector('.actionButton'); 
-button.addEventListener('click', eventHandler); 
+function actionButton() {
+  let button = "eventHandler"
+  document.querySelector[`#actionButton`]
+  button.addEventListener('click')
+  console.log("clicked");
+}
+
 
 // Error 3: 
 function eventHandler() {
@@ -14,14 +19,14 @@ function eventHandler() {
 
 // Error 4: 
 function displayOutput() {
-  let output = document.querySelector('#output'); 
+  let output = document.querySelector('#output');
   output.innerText = 'You clicked the button!';
 }
 
 // Error 6: Misusing variable scope
 let localMessage = 'Updated message';
 function updateMessage() {
-  console.log(localMessage); 
+  console.log(localMessage);
 }
 updateMessage();
 
@@ -41,8 +46,8 @@ console.log('Sum is: ' + (number1 + number2));
 
 
 // Error 9:
-
-if(nullVar == null) {
+let nullVar = null
+if (nullVar == null) {
   console.log('nullVar is null');
 }
 
@@ -66,27 +71,27 @@ console.log(user.name)
 
 // Error 14: 
 let someNumber = 123;
-console.log(someNumber.toUpperCase()); 
+console.log(someNumber.toUpperCase());
 
 // Error 15: 
 let greeting = 'Hello, world!';
 
 // Error 16: 
-for (let i = 0; i < 5; i++){
-    console.log(i);
+for (let i = 0; i < 5; i++) {
+  console.log(i);
 }
 
 // Error 17:
 let five = '5';
 if (five === 5) {
-    console.log('Five is equal to 5'); // This one should be logged
+  console.log('Five is equal to 5'); // This one should be logged
 } else {
-    console.log('Five is not equal to 5'); 
-  }
+  console.log('Five is not equal to 5');
+}
 
 // Error 18:
-Array.prototype.push = function() {
-    console.log('Array push method is overwritten');
+Array.prototype.push = function () {
+  console.log('Array push method is overwritten');
 };
 let numbers = [];
 numbers.push(1);
@@ -100,5 +105,5 @@ x = 5;
 // Error 20:
 let myString = 'Hello';
 myString += 'World';
-console.log(myString); 
+console.log(myString);
 
