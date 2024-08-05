@@ -35,13 +35,8 @@ body div#profileContainer>h2 {
     font-size: 2em;
 }
 
-/* Problem: 8 Hint, see Dev Tools LightHouse*/
-.unused-class-1,
-.unused-class-2,
-.unused-class-3 {
-    color: blue;
-    background-color: black;
-}
+/* Problem: 8 Hint, see Dev Tools LightHouse- Removed*/
+
 
 @media (min-width: 576px) {
     .col-sm {

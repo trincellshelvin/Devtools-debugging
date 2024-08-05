@@ -35,7 +35,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 5:
 
-- Description: []
+- Description: [for page execution, we want our script first. There is also use tracking in the cdn script because of use of those elements.]
 
 #### Problem 6:
 
@@ -43,11 +43,11 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 7:
 
-- Description: []
+- Description: [Image size isn't compliant with ARIA.]
 
 #### Problem 8:
 
-- Description: []
+- Description: [Unused or assigned style script]
 
 #### Problem 9:
 
@@ -81,7 +81,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 5:
 
-- Solution: []
+- Solution: [changed the position of the script links to allow the external file to be called before the cdn linked version. left the tracker codes in the link for the cdn]
 
 #### Problem 6:
 
@@ -89,11 +89,11 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 7:
 
-- Solution: []
+- Solution: [Resized it to comply with the standard]
 
 #### Problem 8:
 
-- Solution: []
+- Solution: [Removed unused script from style sheet]
 
 #### Problem 9:
 
