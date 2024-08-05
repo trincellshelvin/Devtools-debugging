@@ -19,11 +19,19 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 1:
 
-- Description: [Your explanation here]
+- Description: [Missing Meta data]
 
 #### Problem 2:
 
-- Description: [Your explanation here]
+- Description: [CSS call link is outside of the head and unnecessary / in tags.]
+
+#### Problem 3:
+
+- Description: [Class in internal styling isn't assigned to a specific element.]
+
+#### Problem 4:
+
+- Description: [Image is too big for ARIA compliance and has a / at the end of the tag]
 
 [Continue with the remaining problems]
 
@@ -33,11 +41,19 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: [Added meta data to page.]
 
 #### Problem 2:
 
-- Solution: [Your proposed solution here]
+- Solution: [Moved CSS style link to head and removed / from all instances in head tags where they shouldn't be.]
+
+#### Problem 3: 
+
+- Solution: [Changes internal styling class to match and existing class id in html.]
+
+#### Problem 4:
+
+-Solution: [Removed / and resized image]
 
 [Continue with solutions for the remaining problems]
 

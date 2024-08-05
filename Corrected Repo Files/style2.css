@@ -21,7 +21,8 @@ h1 {
 
 /*Issue 7: Not necessarily a problem here, but related to a problem in HTML. */
 #img-container {
-    width: 600px;
+    width: 300px;
+    height: 100px;
     margin: auto;
 }
 
