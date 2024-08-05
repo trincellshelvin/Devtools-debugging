@@ -65,7 +65,7 @@ console.log('importantData');
 testFunction();
 
 // Error 13:
-let user = { namee: 'Alice' };
+let user = { name: 'Alice' };
 console.log(user.name)
 
 // Error 14: 
@@ -91,7 +91,7 @@ if (five === 5) {
 // Error 18:
 Array.prototype.push = function () {
   console.log('Array push method is overwritten');
-};
+}
 let numbers = [];
 numbers.push(1);
 console.log(numbers);
