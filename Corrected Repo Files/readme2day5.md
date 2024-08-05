@@ -33,6 +33,30 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 - Description: [Image is too big for ARIA compliance and has a / at the end of the tag]
 
+#### Problem 5:
+
+- Description: []
+
+#### Problem 6:
+
+- Description: [CSS style !Important isn't needed]
+
+#### Problem 7:
+
+- Description: []
+
+#### Problem 8:
+
+- Description: []
+
+#### Problem 9:
+
+- Description: [n/a problem not marked nor showing in dev tools]
+
+#### Problem 10:
+
+- Description: []
+
 [Continue with the remaining problems]
 
 ### Step 3: Propose Solutions
@@ -54,6 +78,30 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 #### Problem 4:
 
 -Solution: [Removed / and resized image]
+
+#### Problem 5:
+
+- Solution: []
+
+#### Problem 6:
+
+- Solution: [Removed !Important as it is know longer required.]
+
+#### Problem 7:
+
+- Solution: []
+
+#### Problem 8:
+
+- Solution: []
+
+#### Problem 9:
+
+- Solution: [n/a problem not marked nor showing in dev tools]
+
+#### Problem 10:
+
+- Solution: []
 
 [Continue with solutions for the remaining problems]
 
